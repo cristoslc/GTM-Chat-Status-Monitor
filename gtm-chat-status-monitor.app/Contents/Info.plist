@@ -29,8 +29,6 @@
 	</dict>
 	<key>LSRequiresCarbon</key>
 	<true/>
-	<key>LSUIElement</key>
-	<true/>
 	<key>WindowState</key>
 	<dict>
 		<key>dividerCollapsed</key>
@@ -42,7 +40,7 @@
 		<key>positionOfDivider</key>
 		<real>780</real>
 		<key>savedFrame</key>
-		<string>0 56 959 1002 0 0 1920 1058 </string>
+		<string>400 56 959 1002 0 0 1920 1058 </string>
 		<key>selectedTabView</key>
 		<string>result</string>
 	</dict>
