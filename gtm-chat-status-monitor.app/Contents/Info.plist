@@ -29,6 +29,8 @@
 	</dict>
 	<key>LSRequiresCarbon</key>
 	<true/>
+	<key>LSUIElement</key>
+	<string>1</string>
 	<key>WindowState</key>
 	<dict>
 		<key>dividerCollapsed</key>
@@ -38,9 +40,9 @@
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>637</real>
+		<real>516</real>
 		<key>savedFrame</key>
-		<string>242 146 1436 822 0 0 1920 1058 </string>
+		<string>0 56 1920 1002 0 0 1920 1058 </string>
 		<key>selectedTabView</key>
 		<string>event log</string>
 	</dict>
