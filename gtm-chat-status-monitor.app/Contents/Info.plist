@@ -29,29 +29,20 @@
 	</dict>
 	<key>LSRequiresCarbon</key>
 	<true/>
-<<<<<<< HEAD
-	<key>LSUIElement</key>
-	<string>1</string>
-=======
->>>>>>> a3a6c99d84abe4499799aaa00424646ec828c55d
 	<key>WindowState</key>
 	<dict>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
-		<integer>-1</integer>
+		<integer>2</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>596</real>
+		<real>637</real>
 		<key>savedFrame</key>
-<<<<<<< HEAD
-		<string>1920 90 959 822 1920 34 1440 878 </string>
-=======
-		<string>400 56 959 1002 0 0 1920 1058 </string>
->>>>>>> a3a6c99d84abe4499799aaa00424646ec828c55d
+		<string>242 146 1436 822 0 0 1920 1058 </string>
 		<key>selectedTabView</key>
-		<string>result</string>
+		<string>event log</string>
 	</dict>
 </dict>
 </plist>
